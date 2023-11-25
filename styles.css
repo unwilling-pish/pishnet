@@ -1,6 +1,7 @@
 body {
   background-image: url("background.gif");
   color: white;
+  text-align: center;
 }
 
 p {
