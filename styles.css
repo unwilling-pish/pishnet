@@ -7,6 +7,4 @@ body {
 section {
   background-color: black;
   padding: 30px;
-  display: -webkit-flex;
-  display: flex;
 }
