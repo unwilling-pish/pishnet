@@ -1,5 +1,7 @@
 body {
-  background-color: #f3f6f3;
-  font-family: 'Trebuchet MS', sans-serif;
-  color: #26273e;
+  background-image: url("background.gif");
+}
+
+p {
+  background-color: black;
 }
