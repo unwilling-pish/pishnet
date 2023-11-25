@@ -1,8 +1,8 @@
 body {
   background-image: url("background.gif");
+  color: white;
 }
 
 p {
   background-color: black;
-  color: white;
 }
